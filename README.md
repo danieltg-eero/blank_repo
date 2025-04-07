@@ -1,3 +1,3 @@
-# add something to commit
+# add something to commit :)
 # blank_repo
 Black
